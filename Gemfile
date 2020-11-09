@@ -1,4 +1,6 @@
 
+gem 'pry-rails'
+
 gem 'devise'
 
 source 'https://rubygems.org'
